@@ -1,6 +1,6 @@
 {
-  "name": "@types/three-css2drender",
-  "version": "1.0.0",
+  "name": "three-css2drender-types",
+  "version": "1.0.3",
   "homepage": "https://github.com/Marvy-Co/three-css2drender",
   "description": "threejs offical apply CSS2DRender.js with npm",
   "main": "CSS2DRenderer.js",

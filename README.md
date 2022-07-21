@@ -1,17 +1,17 @@
-## three-css2drender
+## three-css2drender-types
 
 threejs offical apply CSS2DRender.js with npm
 
 ## install
 
-`npm i --save three-css2drender`
+`npm i --save three-css2drender-types`
 
 ## usage
 
 ```js
 
 import * as THREE from 'three'
-import {CSS2DRenderer, CSS2DObject} from 'three-css2drender'
+import {CSS2DRenderer, CSS2DObject} from 'three-css2drender-types'
 
 
 let scene = new THREE.Scene()
