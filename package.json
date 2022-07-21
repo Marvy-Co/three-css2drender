@@ -1,7 +1,7 @@
 {
   "name": "@types/three-css2drender",
   "version": "1.0.0",
-  "homepage": "https://github.com/cs64188/three-css2drender",
+  "homepage": "https://github.com/Marvy-Co/three-css2drender",
   "description": "threejs offical apply CSS2DRender.js with npm",
   "main": "CSS2DRenderer.js",
   "scripts": {
@@ -16,10 +16,10 @@
     "three-CSS2DRender",
     "threejs",
     "three.js"
-  ]
+  ],
   "author": "joyboy_duynguyen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cs64188/three-css2drender/issues"
+    "url": "https://github.com/Marvy-Co/three-css2drender/issues"
   }
 }
